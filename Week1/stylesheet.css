@@ -1,9 +1,10 @@
 h1 {
     text-align: center;
     font-size: 5vw;
-    color: #17323a;
+    color: #38616d;
 }
 
 .map {
     display: block;
+    text-align: center;
 }
