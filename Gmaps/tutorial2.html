@@ -2,11 +2,9 @@
 <html>
   <head>
     <title>Add Map</title>
-    <script
-      src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC_6YGTh5JkvT_Y-0j3pn3svSoJhdzAbI&callback=initMap&libraries=&v=weekly"
-      defer
-    ></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC_6YGTh5JkvT_Y-0j3pn3svSoJhdzAbI&callback=initMap&libraries=&v=weekly"
+    defer></script>
+    <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
     <style type="text/css">
       /* Set the size of the div element that contains the map */
       #map {
@@ -16,33 +14,36 @@
         /* The width is the width of the web page */
       }
     </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+
     <script>
         function initMap() {
-            const map = new google.maps.Map(document.getElementById("map"), {
-            zoom: 3,
-            center: { lat: -28.024, lng: 140.887 },
-            });
-            // Create an array of alphabetical characters used to label the markers.
-            const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            // Add some markers to the map.
-            // Note: The code uses the JavaScript Array.prototype.map() method to
-            // create an array of markers based on a given "locations" array.
-            // The map() method here has nothing to do with the Google Maps API.
-            const markers = locations.map((location, i) => {
-            return new google.maps.Marker({
-                position: location,
-                label: labels[i % labels.length],
-            });
-            });
-            // Add a marker clusterer to manage the markers.
-            new MarkerClusterer(map, markers, {
-            imagePath:
-                "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
-            });
+        const map = new google.maps.Map(document.getElementById("map"), {
+        zoom: 3,
+        center: { lat: -28.024, lng: 140.887 },
+        });
+        // Create an array of alphabetical characters used to label the markers.
+        const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        // Add some markers to the map.
+        // Note: The code uses the JavaScript Array.prototype.map() method to
+        // create an array of markers based on a given "locations" array.
+        // The map() method here has nothing to do with the Google Maps API.
+        const markers = locations.map((location, i) => {
+        return new google.maps.Marker({
+            position: location,
+            label: labels[i % labels.length],
+        });
+        });
+        // Add a marker clusterer to manage the markers.
+        new MarkerClusterer(map, markers, {
+        imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
+        });
         }
         const locations = [
-            { lat: -31.56391, lng: 147.154312 },
-            { lat: -33.718234, lng: 150.363181 },
             { lat: -33.727111, lng: 150.371124 },
             { lat: -33.848588, lng: 151.209834 },
             { lat: -33.851702, lng: 151.216968 },
@@ -66,12 +67,5 @@
             { lat: -43.999792, lng: 170.463352 },
         ];
     </script>
-  <body>
-    <h3>My Google Maps Demo</h3>
-    <!--The div element for the map -->
-    <div id="map"></div>
   </body>
 </html>
-
-
-  
