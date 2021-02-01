@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Underdown Caldera Complex</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC_6YGTh5JkvT_Y-0j3pn3svSoJhdzAbI&callback=initMap&libraries=&v=weekly"
+    defer></script>
+    <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+    <style type="text/css">
+
+      #map {
+        height: 600px;
+        width: 100%;
+      }
+
+      h3 {
+          text-align: center;
+          font-size: 3vw;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #214361;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h3>Underdown Caldera Complex</h3>
+    <div id="map"></div>
+
+    <script>
+        function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+            zoom: 7,
+            center: { lat: 38.8026, lng: -116.4194 },
+        });
+        const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const markers = locations.map((location, i) => {
+        return new google.maps.Marker({
+            position: location,
+            label: labels[i % labels.length],
+        });
+        });
+        new MarkerClusterer(map, markers, {
+        imagePath: "https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m",
+        });
+        }
+        const locations = [
+            { lat: 39.02976, lng: -118.69170 },
+            { lat: 39.02897, lng: -118.69158 },
+            { lat: 39.02897, lng: -119.69158 },
+            { lat: 39.02897, lng: -119.69158 },
+            { lat: 39.02897, lng: -119.69158 },
+            { lat: 39.37354, lng: -115.74584 },
+            { lat: 39.3748352, lng: -115.75112 },
+            { lat: 39.4888324, lng: -115.4297 },
+            { lat: 39.48883865, lng: -115.4297793 },
+            { lat: 39.4888835, lng: -115.42986 },
+            { lat: 39.489215, lng: -115.42997 },
+            { lat: 39.4897293, lng: -115.42967 },
+            { lat: 39.489848, lng: -115.42983 },
+            { lat: 39.4912339, lng: -115.42987 },
+            { lat: 38.87523, lng: -117.73749 },
+            { lat: 38.87523, lng: -117.73749 },
+            { lat: 38.87672, lng: -117.73821 },
+            { lat: 38.89684, lng: -117.78318 },
+            { lat: 38.89684, lng: -117.78318 },
+            { lat: 38.89889, lng: -117.78996 },
+            { lat: 38.89889, lng: -117.78996 },
+            { lat: 39.16101, lng: -117.39020 },
+            { lat: 39.16101, lng: -117.39020 },
+            { lat: 39.16101, lng: -117.39020 },
+            { lat: 39.10969, lng: -117.50465 },
+            { lat: 39.11131, lng: -117.51001 },
+            { lat: 39.15890, lng: -117.32555 },
+            { lat: 39.05471, lng: -116.50848 },
+            { lat: 39.05471, lng: -116.50848 },
+            { lat: 39.05451, lng: -116.50841 },
+            { lat: 38.85500, lng: -116.83528 },
+            { lat: 38.85573, lng: -116.83523 },
+            { lat: 38.85649, lng: -116.83590 },
+            { lat: 38.85680, lng: -116.83590 },
+            { lat: 38.85680, lng: -116.83590 },
+            { lat: 38.85680, lng: -116.83590 },
+            { lat: 38.85494, lng: -116.83550 },
+            { lat: 38.89412, lng: -118.18645 },
+            { lat: 38.89217, lng: -118.18324 },
+            { lat: 38.89240, lng: -118.18341 },
+            { lat: 38.89290, lng: -118.18319 },
+        ];
+    </script>
+  </body>
+</html>
