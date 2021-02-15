@@ -37,53 +37,53 @@
         const view = new MapView({
           map: map,
           center: [-75.696196, 45.387064], // Longitude, latitude
-          zoom: 5, // Zoom level
+          zoom: 12, // Zoom level
           container: "viewDiv" // Div element
         });
 
         const graphicsLayer = new GraphicsLayer();
         map.add(graphicsLayer);
 
-        // const point = { //Create a point
-        //     type: "point",
-        //     longitude: -118.80657463861,
-        //     latitude: 34.0005930608889
-        // };
-        // const simpleMarkerSymbol = {
-        //     type: "simple-marker",
-        //     color: [226, 119, 40],  // Orange
-        //     outline: {
-        //         color: [255, 255, 255], // White
-        //         width: 1
-        //     }
-        // };
+        const point = { //Create a point
+            type: "point",
+            longitude: -118.80657463861,
+            latitude: 34.0005930608889
+        };
+        const simpleMarkerSymbol = {
+            type: "simple-marker",
+            color: [226, 119, 40],  // Orange
+            outline: {
+                color: [255, 255, 255], // White
+                width: 1
+            }
+        };
 
-        // const pointGraphic = new Graphic({
-        //     geometry: point,
-        //     symbol: simpleMarkerSymbol
-        // });
-        // graphicsLayer.add(pointGraphic);
+        const pointGraphic = new Graphic({
+            geometry: point,
+            symbol: simpleMarkerSymbol
+        });
+        graphicsLayer.add(pointGraphic);
 
           // Create a line geometry
-        // const polyline = {
-        //     type: "polyline",
-        //     paths: [
-        //         [-118.821527826096, 34.0139576938577], //Longitude, latitude
-        //         [-118.814893761649, 34.0080602407843], //Longitude, latitude
-        //         [-118.808878330345, 34.0016642996246]  //Longitude, latitude
-        //     ]
-        // };
-        // const simpleLineSymbol = {
-        //     type: "simple-line",
-        //     color: [226, 119, 40], // Orange
-        //     width: 2
-        // };
+        const polyline = {
+            type: "polyline",
+            paths: [
+                [-118.821527826096, 34.0139576938577], //Longitude, latitude
+                [-118.814893761649, 34.0080602407843], //Longitude, latitude
+                [-118.808878330345, 34.0016642996246]  //Longitude, latitude
+            ]
+        };
+        const simpleLineSymbol = {
+            type: "simple-line",
+            color: [226, 119, 40], // Orange
+            width: 2
+        };
 
-        // const polylineGraphic = new Graphic({
-        //     geometry: polyline,
-        //     symbol: simpleLineSymbol
-        // });
-        // graphicsLayer.add(polylineGraphic);
+        const polylineGraphic = new Graphic({
+            geometry: polyline,
+            symbol: simpleLineSymbol
+        });
+        graphicsLayer.add(polylineGraphic);
 
      // Create a polygon geometry
         const polygon = {
@@ -93,10 +93,10 @@
                 [-75.683531, 45.397423], //Longitude, latitude
                 [-75.673059, 45.393686], //Longitude, latitude
                 [-75.674347, 45.381269],   //Longitude, latitude
-                [-75.693144, 45.368728]  //Longitude, latitude
+                [-75.693144, 45.368728],  //Longitude, latitude
                 [-75.714000, 45.376626], //Longitude, latitude
                 [-75.722289, 45.389656],   //Longitude, latitude
-                [-75.705724, 45.392309]  //Longitude, latitude
+                [-75.705724, 45.392309],  //Longitude, latitude
             ]
         };
 
@@ -108,15 +108,6 @@
                 width: 1
             }
         };
-
-        const popupTemplate = {
-            title: "{Name}",
-            content: "{Description}"
-        }
-        const attributes = {
-            Name: "Graphic",
-            Description: "I am a polygon"
-        }
 
         const polygonGraphic = new Graphic({
             geometry: polygon,
