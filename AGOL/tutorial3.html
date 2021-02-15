@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
-    <title>ArcGIS API for JavaScript Tutorials: Display a map</title>
+    <title>ArcGIS API for JavaScript Tutorials: Add a feature Layer</title>
     <style>
       html,
       body,
@@ -17,47 +17,51 @@
 
     <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/themes/light/main.css">
     <script src="https://js.arcgis.com/4.18/"></script>
-    
     <script>
       require([
-          "esri/config",
-          "esri/Map", 
-          "esri/views/MapView"
-        
-        ], function (
-            esriConfig,
-            Map, 
-            MapView,
-            Locate,
-        ) {
-        esriConfig.apiKey = "AAPK8135fabfafaf41e291bf3418a55f8e8eRa3AzkABguM_1h4LAlCTPEihmbkBeSp52BJJv_adyceoeOdt7BxsL_VnpJScSLUw";
+            "esri/config",
+            "esri/Map",
+            "esri/views/MapView",
 
+            "esri/layers/FeatureLayer"
+        
+        ], function (esriConfig,Map, MapView, FeatureLayer) {
+        
+        esriConfig.apiKey = "AAPK8135fabfafaf41e291bf3418a55f8e8eRa3AzkABguM_1h4LAlCTPEihmbkBeSp52BJJv_adyceoeOdt7BxsL_VnpJScSLUw";
         const map = new Map({
-            basemap: "arcgis-navigation"
+            basemap: "arcgis-topographic" // Basemap layer service
         });
 
         const view = new MapView({
-            container: "viewDiv"
-            map: map,
-            center: [-40, 28],
-            zoom: 2,
+          map: map,
+          center: [-118.805, 34.027], // Longitude, latitude
+          zoom: 13, // Zoom level
+          container: "viewDiv" // Div element
         });
 
-        const locate = new Locate({
-            view: view,
-            useHeadingEnabled: false,
-            goToOverride: function(view, options) {
-                options.target.scale = 1500;
-                return view.goTo(options.target);
-            }
+        //Trailheads feature layer (points)
+        const trailheadsLayer = new FeatureLayer({
+            url: "https://services3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Trailheads_Styled/FeatureServer/0"
         });
-        view.ui.add(locate, "top-left");
 
-      });
+        map.add(trailheadsLayer);
+
+        //Trails feature layer (lines)
+        const trailsLayer = new FeatureLayer({
+            url: "https://services3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Trails_Styled/FeatureServer/0"
+        });
+
+        map.add(trailsLayer, 0);
+
+        // Parks and open spaces (polygons)
+        const parksLayer = new FeatureLayer({
+            url: "https://services3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Parks_and_Open_Space_Styled/FeatureServer/0"
+        });
+
+        map.add(parksLayer, 0);
+
+        });
     </script>
-
-
-
   </head>
   <body>
     <div id="viewDiv"></div>
