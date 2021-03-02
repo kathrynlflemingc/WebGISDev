@@ -40,8 +40,9 @@
       "esri/WebMap", 
       "esri/views/MapView",
       "esri/widgets/ScaleBar",
-      "esri/widgets/Legend"
-      ], function (esriConfig, WebMap, MapView, ScaleBar, Legend) {
+      "esri/widgets/Legend",
+      "esri/layers/FeatureLayer"
+      ], function (esriConfig, WebMap, MapView, ScaleBar, Legend, FeatureLayer) {
         esriConfig.apiKey = "AAPK266d0488080e4af1965a716c9ce934c4tjFTuGYlx06CaHFIGV9qgTJEKlC3RAFXoLIn2k5t4CKc5FxNSdIIAr82tExBEasL";
 
         const webmap = new WebMap({
@@ -65,6 +66,19 @@
         view: view
         });
         view.ui.add(legend, "top-right");
+
+        const popupInfo = {
+          "title": "Info",
+          "content": "<b>Name (English):<b> {PRENAME}"
+        }
+
+        const infopopup = new FeatureLayer({
+          url: "https://utility.arcgis.com/usrsvcs/servers/71e84edef9ec45a1a9fdaa77bf30ec3a/rest/services/Geom99lab1/KalittlCanada/MapServer/0"
+          outFields: ["PRENAME"]
+          popupTemplate: popupInfo
+        });
+
+        map.add(infopupup);
       });
     </script>
   </head>
