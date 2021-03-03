@@ -10,3 +10,12 @@ Total Time: 15 minutes,
 Outcomes: Created a development log in github and a corresponding spreadsheet for detailed time recording.,
 Resources:, 
 To Do: Need to continue to update development log throughout the rest of the course., 
+
+Task: Sign into AWS 
+Task ID: 002
+Date: March 3, 2021
+Time: 3:20
+Total Time: 
+Outcomes: 
+Resources: 
+To Do: 
