@@ -30,6 +30,9 @@
         color: #000000;
         text-align: center;
       }
+      .image {
+        display: block;
+      }
       .table {
         padding-left: 300pt;
         padding-right: 300pt;
@@ -110,12 +113,13 @@
   </header>
   <body>
     <div>
-      <img src="canada.png" alt="Canada bunting" height="185" width="621">
+      <img src="canada.png" alt="Canada bunting" height="185" width="621" class="image">
     </div>
     <div>
         <p>Check out the interactive map below to explore the provinces and territories of Canada!</p>
         <p>Canada has two official languages! Click on each province or territory to view its name in French and English.</p>
     </div>
+    <div id="viewDiv"></div>
     <div class="table">
       <table id="provinces">
         <tr>
@@ -190,6 +194,5 @@
         </tr>
       </table>
     </div>
-    <div id="viewDiv"></div>
   </body>
 </html>
