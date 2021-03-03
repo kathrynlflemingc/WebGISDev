@@ -31,32 +31,6 @@
         color: #000000;
         text-align: center;
       }
-      #myDIV {
-        width: 100%;
-        padding: 50px 0;
-        text-align: center;
-        color: #ffffff;
-        background-color: rgb(170, 0, 0);
-        margin-top: 20px;
-      }
-      .centered {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
-      .button {
-        font-style: Arial, Helvetica, sans-serif;
-        background-color: rgb(170, 0, 0);
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: block;
-        font-size: 16px;
-        margin: 4px 2px;
-        cursor: pointer;
-      }
       .larger {
         font-size: 20pt;
       }
@@ -140,15 +114,7 @@
   </header>
   <body>
     <div>
-      <p class="larger">Canada became a country in 1867. Do you know how many provinces and territories Canada has?</p>
-    </div>
-    <div class="centered">
-      <button onclick="myFunction()" class="button">Show Answer</button>
-    </div>
-    <div id="myDIV">
-      <p>Canada has 10 provinces and 3 territories!</p>
-    </div>
-    <div>
+      <p class="larger">Canada became a country in 1867 and has 10 provinces and 3 territories.</p>
       <p>Explore the interactive map below to find each one!</p>
       <p>Canada also has two official languages! Click on each province or territory to view its name in French and English.</p>
       <p>Find out more facts about each province below the map.</p>
@@ -228,15 +194,5 @@
         </tr>
       </table>
     </div>
-    <script>
-      function myFunction() {
-        var x = document.getElementById("myDIV");
-        if (x.style.display === "none") {
-          x.style.display = "block";
-        } else {
-          x.style.display = "none";
-        }
-      }
-      </script>
   </body>
 </html>
