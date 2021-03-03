@@ -14,8 +14,8 @@ To Do: Need to continue to update development log throughout the rest of the cou
 Task: Sign into AWS 
 Task ID: 002
 Date: March 3, 2021
-Time: 3:20
-Total Time: 
-Outcomes: 
+Time: 3:15-3:30
+Total Time: 15 mins
+Outcomes: learned how to sign on to the server, connect my computer to the remote desktop and stop the server.
 Resources: 
 To Do: 
