@@ -77,7 +77,7 @@ March 17, 2021
 ##### Total Time: 
 2 hours
 ##### Outcomes: 
-Learned the basics of ArcGIS Experience Builder and its capabilities. Compared this with the function and capabilities of Web App builder. 
+Learned the basics of ArcGIS Experience Builder and its capabilities. Compared this with the function and capabilities of Web App builder. Experience Builder: creates a web app; selection of configurable tools, widgets and templates (or can design your own template); no coding necessary; fully integrated with ArcGIS Online and ArcGIS Enterprise; can incorporate 2D and 3D content in one map. Web App Builder: creates a mapping application on the web; built in tools available; create 2D or 3D web maps; custom widgets and themes can be developed; no coding required; built into ArcGIS Online and ArcGIS Enterprise. Note: widgets and configurable tools can not be copied from Web App Builder to Experience Builder. 
 ##### Resources: 
 https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview
 https://www.youtube.com/watch?v=pNrsd5naN7U
