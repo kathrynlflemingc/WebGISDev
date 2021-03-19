@@ -86,3 +86,20 @@ https://www.esri.com/en-us/arcgis/products/arcgis-web-appbuilder/overview
 https://www.youtube.com/watch?v=nIYE-_Nhdec
 ##### To Do: 
 Try creating a demo experience builder app to learn the functionality further in order to apply this to the group web project. 
+### --------------------------------------------------------------------------------------------------
+##### Task: 
+Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate 
+##### Date: 
+March 17, 2021
+##### Time: 
+4:00 - 5:30
+##### Total Time: 
+1.5 hours
+##### Outcomes: 
+Published the Canada Map from ArcGIS Pro to the EC2 server. To do this I got the server running in AWS, added the server connection in ArcGIS Pro and published from Pro. In order to reference the data on the server and not copy the data when publishing, the Canada folder in my directory was zipped and copied to a folder in the same filepath on the EC2. This enabled the data to be referenced when publishing. Prior to this, I created a Duck Dns for my server url which I used when creating the server connection in ArcGIS Pro. I also obtained an SSL certificate to avoid certificating issues when trying to publish. 
+##### Resources: 
+https://www.youtube.com/watch?v=V2o07DMyNkc&t=237s
+https://www.youtube.com/watch?v=nIRlZN9ECwY
+Week 7 Web GIS Development Video in Adobe Connect
+##### To Do: 
+Update the IP address of the EC2 on the Duck Dns each time the server is started otherwise the url will not work as the IP address will change each time. 
