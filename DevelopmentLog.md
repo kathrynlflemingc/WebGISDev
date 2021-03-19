@@ -66,28 +66,9 @@ Learned about how to manage ArcGIS Portal from ArcGIS Pro
 ##### Resources: 
 https://www.youtube.com/watch?v=KItDcnDQce0
 ### --------------------------------------------------------------------------------------------------
-##### Task ID: 
-005
-##### Task: 
-Services in ArcGIS Enterprise, Services and Portal Items readings
-##### Date: 
-March 8, 2021
-##### Time: 
-1:30-3:00
-##### Total Time: 
-1.5 hours
-##### Outcomes: 
-Learned about the relationships between web services on ArcGIS Server and the ArcGIS Portal. In summary: 
-All data used in ArcGIS Enterprise is made available by web services that can be queried by client apps. Geospatial services can include maps, scenes, geoprocessing tools, geodatabases and imagery. Web services are published from ArcGIS Pro or ArcMap and run on server sites. This is made possible by the relationship between server sites and the ArcGIS Portal. Certain types of services can only be published to certain server sites. Services and administrative controls can be accessed by the RESTful API. On ArcGIS Server these are ArcGIS Server Services Directory and ArcGIS Server Administrator Directory. 
-##### Resources: 
-https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm 
-https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
-https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
-##### To Do: 
-### --------------------------------------------------------------------------------------------------
 ### Week 9:
 ##### Task ID: 
-006
+005
 ##### Task: 
 Configurable Solutions Menu (Wednesday Lab Period)
 ##### Date: 
@@ -108,7 +89,7 @@ https://www.youtube.com/watch?v=nIYE-_Nhdec
 Try creating a demo experience builder app to learn the functionality further in order to apply this to the group web project. 
 ### --------------------------------------------------------------------------------------------------
 ##### Task ID: 
-007
+006
 ##### Task: 
 Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate 
 ##### Date: 
@@ -127,7 +108,7 @@ Week 7 Web GIS Development Video in Adobe Connect
 Update the IP address of the EC2 on the Duck Dns each time the server is started otherwise the url will not work as the IP address will change each time. 
 ### --------------------------------------------------------------------------------------------------
 ##### Task ID: 
-008
+007
 ##### Task: 
 Happy Puppies Team Meeting
 ##### Date: 
@@ -144,7 +125,7 @@ Discussed the web solution for our collab project and worked on completing the p
 Begin planning the design of the ArcGIS Experience Builder web solution we intend to build to solve our problem statement. 
 ### --------------------------------------------------------------------------------------------------
 ##### Task ID: 
-009
+008
 ##### Task: 
 What is a CDN video 
 ##### Date: 
