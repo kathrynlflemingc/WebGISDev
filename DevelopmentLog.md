@@ -67,3 +67,22 @@ https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
 ##### To Do: 
+### --------------------------------------------------------------------------------------------------
+##### Task: 
+Configurable Solutions Menu (Wednesday Lab Period)
+##### Date: 
+March 17, 2021
+##### Time: 
+2:00 - 4:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Learned the basics of ArcGIS Experience Builder and its capabilities. Compared this with the function and capabilities of Web App builder. 
+##### Resources: 
+https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview
+https://www.youtube.com/watch?v=pNrsd5naN7U
+https://www.youtube.com/watch?v=Vu6_pBa7zis
+https://www.esri.com/en-us/arcgis/products/arcgis-web-appbuilder/overview
+https://www.youtube.com/watch?v=nIYE-_Nhdec
+##### To Do: 
+Try creating a demo experience builder app to learn the functionality further in order to apply this to the group web project. 
