@@ -1,5 +1,5 @@
 # Kathryn Little GEOM 99 Development Log
-Entries correspond by item ID to items in a time spreadsheet.
+Entries correspond by item ID to items in a time spreadsheet. https://docs.google.com/spreadsheets/d/1lUKwxB6D-XHU_XxhBCz5gyZjIaFscJHnYOMXFN8_jmw/edit?usp=sharing
 
 ### Week 7:
 ##### Task ID: 
