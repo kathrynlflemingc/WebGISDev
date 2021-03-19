@@ -17,7 +17,7 @@ Created a development log in github and a corresponding spreadsheet for detailed
 ##### Resources: 
 ##### To Do: 
 Need to continue to update development log throughout the rest of the course., 
-
+### --------------------------------------------------------------------------------------------------
 ##### Task: 
 Sign into AWS 
 ##### Task ID: 
@@ -32,7 +32,7 @@ March 3, 2021
 learned how to sign on to the AWS EC2 server, connect my computer to the remote desktop and stop the server.
 ##### Resources: 
 ##### To Do: 
-
+### --------------------------------------------------------------------------------------------------
 ### Week 8: 
 ##### Task: 
 Services in ArcGIS Enterprise, Services and Portal Items readings
