@@ -114,3 +114,18 @@ https://www.youtube.com/watch?v=nIRlZN9ECwY
 Week 7 Web GIS Development Video in Adobe Connect
 ##### To Do: 
 Update the IP address of the EC2 on the Duck Dns each time the server is started otherwise the url will not work as the IP address will change each time. 
+### --------------------------------------------------------------------------------------------------
+##### Task: 
+Happy Puppies Team Meeting
+##### Date: 
+March 18, 2021
+##### Time: 
+12:30 - 2:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Discussed the web solution for our collab project and worked on completing the problem statement for the Web GIS Group Web Solution Project. As a team we decided to pursue ArcGIS Experience builder to create an interactive web application to provide information on hydrological systems. Experience builder was chosen as it provides lots of functionality and flexibility which we believe will be useful for our web solution needs. 
+##### Resources: 
+
+##### To Do: 
+Begin planning the design of the ArcGIS Experience Builder web solution we intend to build to solve our problem statement. 
