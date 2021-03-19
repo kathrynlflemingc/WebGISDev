@@ -79,6 +79,7 @@ https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relation
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
 ##### To Do: 
 ### --------------------------------------------------------------------------------------------------
+### Week 9:
 ##### Task: 
 Configurable Solutions Menu (Wednesday Lab Period)
 ##### Date: 
