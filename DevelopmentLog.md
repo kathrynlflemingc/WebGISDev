@@ -13,10 +13,9 @@ March 3, 2021
 ##### Total Time: 
 15 minutes
 ##### Outcomes: 
-Created a development log in github and a corresponding spreadsheet for detailed time recording.,
-##### Resources: 
+Created a development log in github and a corresponding spreadsheet for detailed time recording.
 ##### To Do: 
-Need to continue to update development log throughout the rest of the course., 
+Need to continue to update development log throughout the rest of the course. 
 ### --------------------------------------------------------------------------------------------------
 ##### Task: 
 Sign into AWS 
@@ -31,7 +30,7 @@ March 3, 2021
 ##### Outcomes: 
 learned how to sign on to the AWS EC2 server, connect my computer to the remote desktop and stop the server.
 ##### Resources: 
-##### To Do: 
+Week 7 Web GIS Development video.
 ### --------------------------------------------------------------------------------------------------
 ### Week 8: 
 ##### Task: 
@@ -49,7 +48,19 @@ All data used in ArcGIS Enterprise is made available by web services that can be
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm 
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
-##### To Do: 
+### --------------------------------------------------------------------------------------------------
+##### Task: 
+Managing Portal from ArcGIS Pro Video 
+##### Date: 
+March 8, 2021
+##### Time: 
+3:00-3:30
+##### Total Time: 
+0.5 hours
+##### Outcomes: 
+Learned about how to manage ArcGIS Portal from ArcGIS Pro 
+##### Resources: 
+https://www.youtube.com/watch?v=KItDcnDQce0
 ### --------------------------------------------------------------------------------------------------
 ##### Task: 
 Services in ArcGIS Enterprise, Services and Portal Items readings
