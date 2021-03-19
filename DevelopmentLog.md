@@ -2,10 +2,10 @@
 Entries correspond by item ID to items in a time spreadsheet.
 
 ### Week 7:
-##### Task Name: 
-Create Development log
 ##### Task ID: 
 001
+##### Task Name: 
+Create Development log
 ##### Date: 
 March 3, 2021
 ##### Time: 
@@ -17,10 +17,10 @@ Created a development log in github and a corresponding spreadsheet for detailed
 ##### To Do: 
 Need to continue to update development log throughout the rest of the course. 
 ### --------------------------------------------------------------------------------------------------
-##### Task: 
-Sign into AWS 
 ##### Task ID: 
 002
+##### Task: 
+Sign into AWS 
 ##### Date: 
 March 3, 2021
 ##### Time: 
@@ -33,6 +33,8 @@ learned how to sign on to the AWS EC2 server, connect my computer to the remote 
 Week 7 Web GIS Development video.
 ### --------------------------------------------------------------------------------------------------
 ### Week 8: 
+##### Task ID: 
+003
 ##### Task: 
 Services in ArcGIS Enterprise, Services and Portal Items readings
 ##### Date: 
@@ -49,6 +51,8 @@ https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
 https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
 ### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+004
 ##### Task: 
 Managing Portal from ArcGIS Pro Video 
 ##### Date: 
@@ -62,6 +66,8 @@ Learned about how to manage ArcGIS Portal from ArcGIS Pro
 ##### Resources: 
 https://www.youtube.com/watch?v=KItDcnDQce0
 ### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+005
 ##### Task: 
 Services in ArcGIS Enterprise, Services and Portal Items readings
 ##### Date: 
@@ -80,6 +86,8 @@ https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-
 ##### To Do: 
 ### --------------------------------------------------------------------------------------------------
 ### Week 9:
+##### Task ID: 
+006
 ##### Task: 
 Configurable Solutions Menu (Wednesday Lab Period)
 ##### Date: 
@@ -99,6 +107,8 @@ https://www.youtube.com/watch?v=nIYE-_Nhdec
 ##### To Do: 
 Try creating a demo experience builder app to learn the functionality further in order to apply this to the group web project. 
 ### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+007
 ##### Task: 
 Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate 
 ##### Date: 
@@ -116,6 +126,8 @@ Week 7 Web GIS Development Video in Adobe Connect
 ##### To Do: 
 Update the IP address of the EC2 on the Duck Dns each time the server is started otherwise the url will not work as the IP address will change each time. 
 ### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+008
 ##### Task: 
 Happy Puppies Team Meeting
 ##### Date: 
@@ -131,6 +143,8 @@ Discussed the web solution for our collab project and worked on completing the p
 ##### To Do: 
 Begin planning the design of the ArcGIS Experience Builder web solution we intend to build to solve our problem statement. 
 ### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+009
 ##### Task: 
 What is a CDN video 
 ##### Date: 
