@@ -139,3 +139,19 @@ Learned the basics of a content delivery network and how it supports video strea
 ##### Resources: 
 https://www.youtube.com/watch?v=OV3legWSi6U
 ##### To Do: 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+009
+##### Task: 
+Attended Friday Lab, worked on problem statement and configurable solutions menu. 
+##### Date: 
+March 19, 2021
+##### Time: 
+10:00 - 12:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Refined problem statement to reduce the workload of the project. The problem statement was edited to focus more on the creation of a general web app that provides hydrological information about the study area in our collaborative project with a very basic 1-layer web map just to have the web map functionality in the project. ArcGIS Dashboards, Storymaps and configurable apps were investigated in more detail. 
+##### Resources: 
+
+##### To Do: 
