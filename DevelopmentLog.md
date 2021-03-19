@@ -129,3 +129,17 @@ Discussed the web solution for our collab project and worked on completing the p
 
 ##### To Do: 
 Begin planning the design of the ArcGIS Experience Builder web solution we intend to build to solve our problem statement. 
+### --------------------------------------------------------------------------------------------------
+##### Task: 
+What is a CDN video 
+##### Date: 
+March 19, 2021
+##### Time: 
+9:30 - 9:45
+##### Total Time: 
+0.25 hours
+##### Outcomes: 
+Learned the basics of a content delivery network and how it supports video streaming on the internet. Learned the differences between LOSSY and LOSSLESS compression as well as adaptive bit rate, and how these concepts changed the ability to share and stream video drastically. 
+##### Resources: 
+https://www.youtube.com/watch?v=OV3legWSi6U
+##### To Do: 
