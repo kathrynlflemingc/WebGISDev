@@ -43,4 +43,10 @@ March 8, 2021
 ##### Total Time: 
 1.5 hours
 ##### Outcomes: 
+Learned about the relationships between web services on ArcGIS Server and the ArcGIS Portal. In summary: 
 All data used in ArcGIS Enterprise is made available by web services that can be queried by client apps. Geospatial services can include maps, scenes, geoprocessing tools, geodatabases and imagery. Web services are published from ArcGIS Pro or ArcMap and run on server sites. This is made possible by the relationship between server sites and the ArcGIS Portal. Certain types of services can only be published to certain server sites. Services and administrative controls can be accessed by the RESTful API. On ArcGIS Server these are ArcGIS Server Services Directory and ArcGIS Server Administrator Directory. 
+##### Resources: 
+https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm 
+https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
+https://enterprise.arcgis.com/en/server/latest/publish-services/windows/what-is-a-map-service.htm
+##### To Do: 
