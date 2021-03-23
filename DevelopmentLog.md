@@ -154,7 +154,8 @@ March 19, 2021
 Refined problem statement to reduce the workload of the project. The problem statement was edited to focus more on the creation of a general web app that provides hydrological information about the study area in our collaborative project with a very basic 1-layer web map just to have the web map functionality in the project. ArcGIS Dashboards, Storymaps and configurable apps were investigated in more detail. 
 ##### Resources: 
 
-##### To Do: 
+##### To Do:
+Once problem statement is approved, begin working on web solution for the group project. 
 ### --------------------------------------------------------------------------------------------------
 ##### Task ID: 
 010
@@ -167,7 +168,7 @@ March 22, 2021
 ##### Total Time: 
 1.25 hour
 ##### Outcomes: 
-Learned more about the capabilities within Experience Builder based on the example apps visited. Based on these examples, you can use maps, photos, text, and embedded media such as audio and videos (eg. youtube). You can also use a pop-up with directions on how to use the app. The experience builder app can also contain statistics - similar to ArcGIS Dashboards. It appears to be possible to embed ArcGIS Online into an Experience Builder app and access item pages for layers and web maps hosted in your organization. Data from the map can be downloaded from Experience Builder to a CSV or SHP if enabled. Furthermore the Experience Builder app can be formatted as a web page (this is possibly using an embed content widget to embed an existing website using the URL). 
+Learned more about the capabilities within Experience Builder based on the example apps visited which can be applied to the creation of our app for the group project web solution. Based on these examples, you can use maps, photos, text, and embedded media such as audio and videos (eg. youtube). You can also use a pop-up with directions on how to use the app. The experience builder app can also contain statistics - similar to ArcGIS Dashboards. It appears to be possible to embed ArcGIS Online into an Experience Builder app and access item pages for layers and web maps hosted in your organization. Data from the map can be downloaded from Experience Builder to a CSV or SHP if enabled. Furthermore the Experience Builder app can be formatted as a web page (this is possibly using an embed content widget to embed an existing website using the URL). 
 Experimenting with Experience Builder: experimented with the widgets - map, table, feature info, list, legend. Began creating an example experience builder with some old data from the City of Ottawa Parking Services to create a web app showing parking garages and pay stations in the Byward Market (similar to one of the Experience Builder examples). 
 ##### Resources: 
 https://experience.arcgis.com/experience/df36d88209d9458bbd5ecf85515de827/?data_id=dataSource_1-Silverwood_NH_Tour_Points_9868%3A3
