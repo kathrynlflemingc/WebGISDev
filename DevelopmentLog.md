@@ -155,3 +155,25 @@ Refined problem statement to reduce the workload of the project. The problem sta
 ##### Resources: 
 
 ##### To Do: 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+010
+##### Task: 
+Explore Experience Builder examples and default templates available within Experience Builder. Began experimenting with Experience Builder to create a simple web app. 
+##### Date: 
+March 22, 2021
+##### Time: 
+20:30 - 21:45
+##### Total Time: 
+1.25 hour
+##### Outcomes: 
+Learned more about the capabilities within Experience Builder based on the example apps visited. Based on these examples, you can use maps, photos, text, and embedded media such as audio and videos (eg. youtube). You can also use a pop-up with directions on how to use the app. The experience builder app can also contain statistics - similar to ArcGIS Dashboards. It appears to be possible to embed ArcGIS Online into an Experience Builder app and access item pages for layers and web maps hosted in your organization. Data from the map can be downloaded from Experience Builder to a CSV or SHP if enabled. Furthermore the Experience Builder app can be formatted as a web page (this is possibly using an embed content widget to embed an existing website using the URL). 
+Experimenting with Experience Builder: experimented with the widgets - map, table, feature info, list, legend. Began creating an example experience builder with some old data from the City of Ottawa Parking Services to create a web app showing parking garages and pay stations in the Byward Market (similar to one of the Experience Builder examples). 
+##### Resources: 
+https://experience.arcgis.com/experience/df36d88209d9458bbd5ecf85515de827/?data_id=dataSource_1-Silverwood_NH_Tour_Points_9868%3A3
+https://experience.arcgis.com/experience/f7f674ce7a4a45b4afc8c3c4b2bdba7d
+https://experience.arcgis.com/experience/e2059f05649442dd943bddfaf5ce1bb8
+https://experience.arcgis.com/experience/e29add561dee4c968fbadbe18d7ce307/page/page_24/
+https://maps.scag.ca.gov/helpr/?page=page_0
+##### To Do: 
+Continue to experiment with Experience Builder to get a feel for how our web solution can be formatted and the widgets and non-map content we can implement. 
