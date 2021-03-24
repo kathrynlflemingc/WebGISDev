@@ -92,7 +92,7 @@ Try creating a demo experience builder app to learn the functionality further in
 ##### Task ID: 
 006
 ##### Task: 
-Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate 
+Week 7/8 Checklist: Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate 
 ##### Date: 
 March 17, 2021
 ##### Time: 
@@ -198,6 +198,6 @@ https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview
 https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/resources
 https://storymaps.arcgis.com/stories/42b1a6fe6a524b578becd12c0bee4b4c
 ##### To Do: 
- 
+Continue working on experience builder for the group project web solution.  
 
 
