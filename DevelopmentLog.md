@@ -178,3 +178,25 @@ https://experience.arcgis.com/experience/e29add561dee4c968fbadbe18d7ce307/page/p
 https://maps.scag.ca.gov/helpr/?page=page_0
 ##### To Do: 
 Continue to experiment with Experience Builder to get a feel for how our web solution can be formatted and the widgets and non-map content we can implement. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+011
+##### Task: 
+Configurable apps video, reading into ArcGIS Dashboards and StoryMaps
+##### Date: 
+March 23, 2021
+##### Time: 
+20:45 - 21:15
+##### Total Time: 
+0.5 hour
+##### Outcomes: 
+Configurable Apps: web apps configured with python (or arcade?) can filter out certain data in order to refine your search and make the web app more tailored to the user's need in real time. ArcGIS Dashboards: Combines web maps, statistics, and other widgets to create an interactive data presentation app. Layers can be turned on and off to show different things and  widgets can be customized to change their display based on a trigger executed on the map. ArcGIS Storymaps: Essentially a multimedia presentation that can combine maps (can use the rapid map builder built into storymaps if needed) and/or text, photos and video in order to tell a story. Very customizable with no coding needed and templates to choose from. Maps can be brought in from AGOL. The story map attached in resources is an amazing example of the integration of multimedia with photos, text, and maps to create a fully rounded experience for the user contained within a web app. 
+##### Resources: 
+https://www.youtube.com/watch?v=PQjvUVwqic8
+https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview
+https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/resources
+https://storymaps.arcgis.com/stories/42b1a6fe6a524b578becd12c0bee4b4c
+##### To Do: 
+ 
+
+
