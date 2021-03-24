@@ -30,6 +30,8 @@ March 3, 2021
 learned how to sign on to the AWS EC2 server, connect my computer to the remote desktop and stop the server.
 ##### Resources: 
 Week 7 Web GIS Development video.
+##### To Do: 
+Publish to the AWS EC2 server. 
 ### --------------------------------------------------------------------------------------------------
 ### Week 8: 
 ##### Task ID: 
@@ -142,7 +144,7 @@ https://www.youtube.com/watch?v=OV3legWSi6U
 ##### Task ID: 
 009
 ##### Task: 
-Attended Friday Lab, worked on problem statement and configurable solutions menu. 
+Attended Friday Lab, worked on problem statement with group
 ##### Date: 
 March 19, 2021
 ##### Time: 
@@ -150,7 +152,7 @@ March 19, 2021
 ##### Total Time: 
 2 hours
 ##### Outcomes: 
-Refined problem statement to reduce the workload of the project. The problem statement was edited to focus more on the creation of a general web app that provides hydrological information about the study area in our collaborative project with a very basic 1-layer web map just to have the web map functionality in the project. ArcGIS Dashboards, Storymaps and configurable apps were investigated in more detail. 
+Refined problem statement to reduce the workload of the project. The problem statement was edited to focus more on the creation of a general web app that provides hydrological information about the study area in our collaborative project with a very basic 1-layer web map just to have the web map functionality in the project.
 ##### Resources: 
 
 ##### To Do:
