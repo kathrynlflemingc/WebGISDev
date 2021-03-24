@@ -9,7 +9,7 @@ Create Development log
 ##### Date: 
 March 3, 2021
 ##### Time: 
-3:00-3:15
+15:00-15:15
 ##### Total Time: 
 15 minutes
 ##### Outcomes: 
@@ -24,7 +24,7 @@ Sign into AWS
 ##### Date: 
 March 3, 2021
 ##### Time: 
-3:15-3:30
+15:15-15:30
 ##### Total Time: 
 15 mins
 ##### Outcomes: 
@@ -40,7 +40,7 @@ Services in ArcGIS Enterprise, Services and Portal Items readings
 ##### Date: 
 March 8, 2021
 ##### Time: 
-1:30-3:00
+13:30-15:00
 ##### Total Time: 
 1.5 hours
 ##### Outcomes: 
@@ -58,7 +58,7 @@ Managing Portal from ArcGIS Pro Video
 ##### Date: 
 March 8, 2021
 ##### Time: 
-3:00-3:30
+15:00-15:30
 ##### Total Time: 
 0.5 hours
 ##### Outcomes: 
@@ -74,7 +74,7 @@ Configurable Solutions Menu (Wednesday Lab Period)
 ##### Date: 
 March 17, 2021
 ##### Time: 
-2:00 - 4:00
+14:00 - 16:00
 ##### Total Time: 
 2 hours
 ##### Outcomes: 
@@ -95,7 +95,7 @@ Publishing to EC2 Server, Creat Duck Dns and obtain SSL Certificate
 ##### Date: 
 March 17, 2021
 ##### Time: 
-4:00 - 5:30
+16:00 - 17:30
 ##### Total Time: 
 1.5 hours
 ##### Outcomes: 
@@ -114,7 +114,7 @@ Happy Puppies Team Meeting
 ##### Date: 
 March 18, 2021
 ##### Time: 
-12:30 - 2:00
+12:30 - 14:00
 ##### Total Time: 
 2 hours
 ##### Outcomes: 
@@ -131,7 +131,7 @@ What is a CDN video
 ##### Date: 
 March 19, 2021
 ##### Time: 
-9:30 - 9:45
+21:30 - 21:45
 ##### Total Time: 
 0.25 hours
 ##### Outcomes: 
