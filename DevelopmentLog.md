@@ -241,4 +241,20 @@ Experimenting with the widgets in Experience Builder:
 
 ##### To Do: 
 Continue working on experience builder for the group project web solution. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+013
+##### Task: 
+Friday Lab - meeting with Shawn, began working on storymaps, connected to a github repository created by Kristine.
+##### Date: 
+March 23, 2021
+##### Time: 
+10:00 - 12:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Began investigating storymaps in more detail to potentially pivot the technology used in the web solution to this. The reasoning behind this potential change is the challenge of using experience builder, as the widgets are tricky to configure. As a group we also question whether we have enough data to make experience builder make sense. A storymap would be a simpler approach to a similar product, however would lack the functionality of selecting individual streams to view more information (such as stream order). In storymaps I began by creating a web map of the streams which have been clipped to the study area. I embedded this map into the storymap and began exploring the different content types and template options available. Kristine created a repository in her github account and I cloned the repository onto my local computer using visual studio code. This will be where we document our progress for the final web solution. 
+##### Resources: 
 
+##### To Do: 
+Continue to investigate storymaps as an alternative to experience builder. 
