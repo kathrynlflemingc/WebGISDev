@@ -199,5 +199,46 @@ https://www.esri.com/en-us/arcgis/products/arcgis-dashboards/resources
 https://storymaps.arcgis.com/stories/42b1a6fe6a524b578becd12c0bee4b4c
 ##### To Do: 
 Continue working on experience builder for the group project web solution.  
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+012
+##### Task: 
+Experimented with Experience Builder
+##### Date: 
+March 25, 2021
+##### Time: 
+20:00 - 22:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Experimenting with the widgets in Experience Builder:
+Photo widget
+		○ Purely static - can connect to URL or upload image - widget is not targetable by a trigger and action therefore it cannot change based on the feature selected. 
+			§ In order to do this you would probably have to have the image attached to the record in ArcGIS Pro and use item details if you wanted the picture to change based on the object selected 
+	- Table Widget 
+		○ Can connect to data and display the attribute table - can hide certain columns 
+		○ Looks as though you can change the data displayed in the table by linking to multiple data sources and 
+		
+	- Pages
+		○ Not sure yet how to go between pages in the Live View or Preview, but it seems like you can have multiple pages for sure - maybe you need to use a button and link to the next page?
+	- List
+		○ Like a series of cards that you can format with text, a button and an image
+		○ Very different from feature info and table
+	- Feature info vs. Table
+		○ Feature info - see one feature at a time and can configure the map to zoom to the selected object 
+			§ Can set triggers to zoom into the selected feature
+			§ However when first trying to do this the map would automatically zoom into a feature right when the app opened in preview mode which is not ideal if you want the user to be able to view the entire map before making selections
+		○ Table - a table of all of the feature attributes simultaneously 
+			§ Can see all of the features at once
+			§ Can set triggers on this - however - when selecting records in the table by default you can have more than one selected at a time - so this would not be as useful if you really wanted to zoom in on just that feature if it is selected in the table (you would need to unselect the previous one each time to target just the one of interest)
+			§ Can have multiple sheets connected to different layers that are changed using the dropdown menu in the table 
+			§ Note: the only thing about this that isn't ideal is that for records that have a lot of text (ie. The rate structure in my example) you can't see all of it in the table - therefore that information is inaccessible
+				□ In the feature info you can see the full contents of the record
+			§ Would be more ideal for layers with LOTS of records
+Feature info - have to select the maximum number of features to show I believe it may not show all of them by default or could be slower to load if there are too many features
 
+##### Resources: 
+
+##### To Do: 
+Continue working on experience builder for the group project web solution. 
 
