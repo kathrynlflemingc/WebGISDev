@@ -247,7 +247,7 @@ Continue working on experience builder for the group project web solution.
 ##### Task: 
 Friday Lab - meeting with Shawn, began working on storymaps, connected to a github repository created by Kristine.
 ##### Date: 
-March 23, 2021
+March 26, 2021
 ##### Time: 
 10:00 - 12:00
 ##### Total Time: 
@@ -258,3 +258,20 @@ Began investigating storymaps in more detail to potentially pivot the technology
 
 ##### To Do: 
 Continue to investigate storymaps as an alternative to experience builder. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+014
+##### Task: 
+Investigated the content options in ArcGIS Storymaps for the web solution 
+##### Date: 
+March 30, 2021
+##### Time: 
+8:30 - 9:30
+##### Total Time: 
+1 hour
+##### Outcomes: 
+Investigated the content options in ArcGIS Storymaps further to potentially use for the web solution instead of Experience Builder. Adding web maps is simple if they are created in ArcGIS online and the data can be filtered in order to show only the first and/or second order streams which would be beneficial for the solution (although this functionality would be available in any solution that embeds an ArcGIS online map. After looking at the other content options they are mostly photos, videos, audio, and embedded web content (in addition to text). Because the web solution has very little of this type of content and really only needs one or two web maps, I feel as though using the Storymap for the web solution will not be using Storymaps to its fullest potential, and a better solution for our project and data can be achieved in Experience Builder. For these reasons, I think that working through the bugs and quirks of Experience Builder to create an interactive web map application will be more rewarding and produce a better end product. From this investigation, Storymaps feels more like an application to create slideshows with embedded ArcGIS Online content.
+##### Resources: 
+
+##### To Do: 
+Pivot back to experience builder to continue working out how to effectively configure the widgets for the web solution. 
