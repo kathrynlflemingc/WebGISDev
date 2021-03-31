@@ -266,7 +266,7 @@ Investigated the content options in ArcGIS Storymaps for the web solution
 ##### Date: 
 March 30, 2021
 ##### Time: 
-8:30 - 9:30
+20:30 - 21:30
 ##### Total Time: 
 1 hour
 ##### Outcomes: 
@@ -275,3 +275,30 @@ Investigated the content options in ArcGIS Storymaps further to potentially use 
 
 ##### To Do: 
 Pivot back to experience builder to continue working out how to effectively configure the widgets for the web solution. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+015
+##### Task: 
+read the Esri Blog: ArcGIS Exprience Builder Beta is Available Now, ArcGIS Experience Builder Out of Beta, Experience Builder Overview
+##### Date: 
+March 31, 2021
+##### Time: 
+9:00 - 9:30
+##### Total Time: 
+0.5 hour
+##### Outcomes: 
+ArcGIS Experience Builder Beta is Available now: 
+* little new information other than that there is a separate developer version of Experience Builder that can be downloaded and can offer more configuration options than the creator version. 
+ArcGIS Experience Builder Out of Beta: details some features that were included when transitioning from the Beta version to the fully live online version including: 
+* enterprise login
+* reusable templates
+* expanded language support
+* shared themes within organizations
+* app launcher access
+* improved user experience (specifically being able to find and select page components in the Outline in order to target them individually when editing)
+##### Resources: 
+https://www.esri.com/arcgis-blog/products/experience-builder/mapping/experience-builder-overview/
+https://www.esri.com/arcgis-blog/products/experience-builder/announcements/arcgis-experience-builder-beta-is-available-now/
+https://www.esri.com/arcgis-blog/products/experience-builder/announcements/arcgis-experience-builder-out-of-beta/
+##### To Do: 
+Would like to figure out how to switch between pages in the live view in Experience Builder. 
