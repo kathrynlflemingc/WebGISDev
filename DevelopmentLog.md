@@ -287,8 +287,7 @@ March 31, 2021
 ##### Total Time: 
 0.5 hour
 ##### Outcomes: 
-ArcGIS Experience Builder Beta is Available now: 
-* little new information other than that there is a separate developer version of Experience Builder that can be downloaded and can offer more configuration options than the creator version. 
+ArcGIS Experience Builder Beta is Available now: little new information other than that there is a separate developer version of Experience Builder that can be downloaded and can offer more configuration options than the creator version. 
 ArcGIS Experience Builder Out of Beta: details some features that were included when transitioning from the Beta version to the fully live online version including: 
 * enterprise login
 * reusable templates
@@ -296,6 +295,8 @@ ArcGIS Experience Builder Out of Beta: details some features that were included 
 * shared themes within organizations
 * app launcher access
 * improved user experience (specifically being able to find and select page components in the Outline in order to target them individually when editing)
+
+ArcGIS Experience Builder Overview: read over the basic concepts and components of Experience Builder. This reading supported what I have already started to learn when experimenting with experience builder (ie. where things are located on the interface, how widgets are configured, how to add content). This article did not mention how to switch between pages in live view which is what I am really interested in figuring out. 
 ##### Resources: 
 https://www.esri.com/arcgis-blog/products/experience-builder/mapping/experience-builder-overview/
 https://www.esri.com/arcgis-blog/products/experience-builder/announcements/arcgis-experience-builder-beta-is-available-now/
