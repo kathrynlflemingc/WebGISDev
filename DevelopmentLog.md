@@ -303,3 +303,57 @@ https://www.esri.com/arcgis-blog/products/experience-builder/announcements/arcgi
 https://www.esri.com/arcgis-blog/products/experience-builder/announcements/arcgis-experience-builder-out-of-beta/
 ##### To Do: 
 Would like to figure out how to switch between pages in the live view in Experience Builder. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+016
+##### Task: 
+Attended Wednesday lab, participated in the ArcGIS Experience Builder group discussion 
+##### Date: 
+March 31, 2021
+##### Time: 
+14:00 - 16:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Discussed the pros and cons of Experience Builder with other groups who are using Experience Builder to create their web solution, as well as saw what kind of template each group is working with. The first major outcome from this discussion was seeing how other groups made apps that were more website-like than our groups which is very dashboard-like. This caused our group to decide to each begin to create an experience builder app with a different template to experiment with the layout. A second outcome from this was learning how to go between pages in the live view. This is done by inlcuding a menu in the layout which will show the different pages in the live view. 
+##### Resources: 
+
+##### To Do: 
+Begin creating an experience builder example using a template the group hasn't explored yet. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+017
+##### Task: 
+Looked more in depth at the built in templates for experience builder following Wednesday Lab
+##### Date: 
+March 31, 2021
+##### Time: 
+21:45 - 22:15
+##### Total Time: 
+0.5 hour
+##### Outcomes: 
+Website-like templates: general, introduction, gallery, epic, snapshot, summary, timeline, scenic, exhibition, parallax
+Dashboard-like templates (map focused): foldable, launchpad, jewelrybox, billboard, journey, ribbon, dart, pocket, quick navigation
+blank templates: blank fullscreen, blank scrolling. 
+Blank templates would have more customization potential than the other templates which would be more configuration based. This might be easier to work with considering we don't have lots of different layers of data. 
+##### Resources: 
+https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/overview
+##### To Do: 
+Begin creating an experience builder example using a template the group hasn't explored yet - possibly trying a blank scrolling template to give more flexibility.
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+018
+##### Task: 
+Created a custom web app for the web solution using the blank scrolling template. 
+##### Date: 
+April 3, 2021
+##### Time: 
+20:30-21:30
+##### Total Time: 
+1 hour
+##### Outcomes: 
+I chose to use the blank scrolling template in order to create more of a website-like web app which showcases the hydrological information, background information about the rice lake plains, and contains multiple web maps showing stream orders in the rice lake plains. I think this layout was successful because the problem statement for our web solution is related to communicating hydrological information, and with a more dashboard style template I feel that there is nowhere for this information to be placed within the app itself - it would need to be external to the app. 
+##### Resources: 
+
+##### To Do: 
+Continue editing the web app. 
