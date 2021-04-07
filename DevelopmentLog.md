@@ -359,3 +359,20 @@ I chose to use the blank scrolling template in order to create more of a website
 
 ##### To Do: 
 Continue editing the web app. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+019
+##### Task: 
+Worked on experience builder 
+##### Date: 
+April 7, 2021
+##### Time: 
+8:30 - 9:00
+##### Total Time: 
+0.5 hours
+##### Outcomes: 
+Added basemap toggle feature and scale bar to web maps. Basemaps feature will allow for the user to select which basemap they would like to use - aerial imagery is useful to asses the landcover type while a basic grey base map would be useful to just identify location. Aerial imagery would likely be better for conservation work. I also reduced the width of the maps to make it easier to scroll through the page (otherwise I commonly got stuck in the map zooming and out when trying to scroll through the page). 
+##### Resources: 
+
+##### To Do: 
+Continue editing the web app. 
