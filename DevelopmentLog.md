@@ -376,3 +376,37 @@ Added basemap toggle feature and scale bar to web maps. Basemaps feature will al
 
 ##### To Do: 
 Continue editing the web app. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+020
+##### Task: 
+Attended Friday Lab
+##### Date: 
+April 9, 2021
+##### Time: 
+10:00 - 12:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+Discussed the progress on the experience builder app with Shawn. Shawn suggested the group try to use ArcGIS Hub to create a website-like solution with our embedded experience builder as opposed to the same thing solely in experience builder. For the remainder of the lab I worked on exploring ArcGIS Hub. It was a bit confusing trying to figure out how to make a new Hub website as going to hub.arcgis.com gave examples of templates to work with but no clear way to create anything. Going through ArcGIS Online and the app explorer was much easier as this led directly to my Hub content. The new site that is created uses a default template that can be configured with different widgets and the existing content can be removed. This site doesn't seem very customizable, but would offer an easy solution if the user was new to web design. Unfortunately I learned the hard way that you need to save all of your edits before going into preview mode because all edits will be lost otherwise.
+##### Resources: 
+
+##### To Do: 
+Redo the work that was lost from ArcGIS Hub
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+021
+##### Task: 
+Worked on an ArcGIS Hub Website
+##### Date: 
+April 12, 2021
+##### Time: 
+20:00 - 21:00
+##### Total Time: 
+1 hour
+##### Outcomes: 
+Similar to the previous experience, I struggled finding out how to create a new ArcGIS Hub site but found it in the AGOL app explorer. I removed most of the widgets from the template in order to make a website that works better for the solution. I changed the header photo from the default and embedded the headwater streams web maps. I also added text but found it frustrating that you can only choose from a specific set of font sizes and have no choice of font style. I investigated changing background colours but found the side settings bar confusing. All in all, I think ArcGIS Hub is definitely useful for bringing your AGOL content together however, I find that the site isn't as customizable as I would like it to be. This would be very useful if the user didn't have any web design experience, which I am sure is what is is designed for. 
+##### Resources: 
+
+##### To Do: 
+Continue working with ArcGIS Hub.
