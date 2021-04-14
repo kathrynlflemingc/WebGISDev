@@ -360,6 +360,7 @@ I chose to use the blank scrolling template in order to create more of a website
 ##### To Do: 
 Continue editing the web app. 
 ### --------------------------------------------------------------------------------------------------
+### Week 12:
 ##### Task ID: 
 019
 ##### Task: 
@@ -396,6 +397,24 @@ Redo the work that was lost from ArcGIS Hub
 ### --------------------------------------------------------------------------------------------------
 ##### Task ID: 
 021
+##### Task: 
+Revisted storymaps and added more content to my existing storymap
+##### Date: 
+April 10, 2021
+##### Time: 
+10:00 - 10:30
+##### Total Time: 
+0.5 hour
+##### Outcomes: 
+During this time I added the text I wrote about the Rice Lake Plains and hydrology for experience builder to storymaps to try and re-create what I had made in experience builder. Comparing the process of putting both of those together, experience builder is much easier to customize (particularly in regards to map and text box size) while storymaps is a stricter template. However, both could produce a very similar product if the goal was not to have a lot of functionality with the data. 
+##### Resources: 
+
+##### To Do: 
+Use screenshots from ArcGIS Storymaps in final solution delivery to illustrate the design process. 
+### --------------------------------------------------------------------------------------------------
+### Week 13:
+##### Task ID: 
+022
 ##### Task: 
 Worked on an ArcGIS Hub Website
 ##### Date: 
