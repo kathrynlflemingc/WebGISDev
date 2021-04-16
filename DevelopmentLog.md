@@ -429,3 +429,37 @@ Similar to the previous experience, I struggled finding out how to create a new 
 
 ##### To Do: 
 Continue working with ArcGIS Hub.
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+023
+##### Task: 
+Group Meeting to discuss beta web solution delivery
+##### Date: 
+April 15, 2021
+##### Time: 
+13:00 - 13:30
+##### Total Time: 
+0.5 hour
+##### Outcomes: 
+The group met to discuss the work that still needed to be done for the beta solution delivery to Shawn. As a group we decided to proceed with the ArcGIS Hub website that I made (with some modifications) and embed two experience builder applications that James will configure based off of his original. 
+##### Resources: 
+
+##### To Do: 
+Make modifications to ArcGIS Hub website and embed the experience builder applications. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+024
+##### Task: 
+Made modifications to ArcGIS Hub for beta solution delivery
+##### Date: 
+April 15, 2021
+##### Time: 
+20:00 - 21:30
+##### Total Time: 
+1.5 hours
+##### Outcomes: 
+During this time I removed the web maps showing individual stream orders because this will be shown on the experience builder app that James has created. Background colours of the individual sections of the website were changed to be more cohesive (I went with the default image background (html link) included with hub, and a dark blue for the alternating sections. All of the text was changed to white and standardized at heading 3 (as I though the built in paragraph size was too small for the page). The headings were standardized at the Heading 2 format. I played around with the header image, specifically trying to get the overlying text to be more visible and settled on setting a black background colour and making the image semi-transparent. I also played around with spacers but decided to leave them out as there wowuld be too much empty space. I kept the location and stream order web maps. Finally, I embedded the exprience builder applications that James was working on. Note: make sure the privacy for each item is set appropriately so it shows up when the site is visited by the user. 
+##### Resources: 
+
+##### To Do: 
+Hand in Beta Solution Delivery 
