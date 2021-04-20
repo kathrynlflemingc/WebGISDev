@@ -463,3 +463,20 @@ During this time I removed the web maps showing individual stream orders because
 
 ##### To Do: 
 Hand in Beta Solution Delivery 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+025
+##### Task: 
+Met with Shawn for beta delivery review, worked on github documentation
+##### Date: 
+April 16, 2021
+##### Time: 
+10:00 - 12:00
+##### Total Time: 
+2 hours
+##### Outcomes: 
+During this time the group met with Shawn for our Beta solution delivery review. Feedback included removing the virtual stream segments through the waterbodies and adding the waterbodies layer over the streams. This was suggested to make the maps more understandable for a user without knowledge of the hydrological modelling process (ie. virtual stream segments). After this I worked on the documentation for the ArcGIS StoryMaps for the github page. I included screenshots of the solution that I created when we were experimenting with different solution options. In addition, I wrote a summary of why the group decided not to proceed with StoryMaps for the final solution delivery. Initially, we tried to work with StoryMaps as we were finding the interface in Experience Builder difficult to work with. However, after trying to create a solution with StoryMaps, I decided that there were too many limitations with what type of content could be used.
+##### Resources: 
+https://kluangkhflemingc.github.io/nccweb/solutions.html#exp-build
+##### To Do: 
+Make the changes to the map layers that Shawn suggested for the final solution delivery. 
