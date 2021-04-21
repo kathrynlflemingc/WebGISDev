@@ -477,6 +477,23 @@ April 16, 2021
 ##### Outcomes: 
 During this time the group met with Shawn for our Beta solution delivery review. Feedback included removing the virtual stream segments through the waterbodies and adding the waterbodies layer over the streams. This was suggested to make the maps more understandable for a user without knowledge of the hydrological modelling process (ie. virtual stream segments). After this I worked on the documentation for the ArcGIS StoryMaps for the github page. I included screenshots of the solution that I created when we were experimenting with different solution options. In addition, I wrote a summary of why the group decided not to proceed with StoryMaps for the final solution delivery. Initially, we tried to work with StoryMaps as we were finding the interface in Experience Builder difficult to work with. However, after trying to create a solution with StoryMaps, I decided that there were too many limitations with what type of content could be used.
 ##### Resources: 
-https://kluangkhflemingc.github.io/nccweb/solutions.html#exp-build
+
 ##### To Do: 
 Make the changes to the map layers that Shawn suggested for the final solution delivery. 
+### --------------------------------------------------------------------------------------------------
+##### Task ID: 
+026
+##### Task: 
+Added waterbodies layer to Headwater Streams Map
+##### Date: 
+April 21, 2021
+##### Time: 
+10:30 - 10:45
+##### Total Time: 
+0.25 hours
+##### Outcomes: 
+Based on Shawn's recommendation, I added the waterbodies layer to the headwater streams AGOL map which is embedded in the ArcGIS Hub website of the Web Solution Delivery. I chose to do this option as it was easier to deal with the virtual stream segments which run through the waterbodies by covering them up than it would have been to delete those segments. In order to delete the segments, the data would have had to been edited in ArcGIS Pro. Since the waterbodies layer was already in AGOL and just had the visibility turned off, the layer was just made visible and the colour was set to a light blue with no transparency so the virtual segments are not visible underneath. 
+##### Resources: 
+
+##### To Do: 
+Finish the github documentation and hand in the final solution. 
